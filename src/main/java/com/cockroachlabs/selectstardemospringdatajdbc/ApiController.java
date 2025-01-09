@@ -27,7 +27,7 @@ public class ApiController {
 				.orElseThrow(() -> new EmployeeNotFound("Unable to find employee with UUID " + id));
 	}
 
-	@GetMapping("/api/employees/{role}")
+	@GetMapping("/api/employees/role/{role}")
 	List<Employee> findByRole(@PathVariable String role) {
 		return repository.findByRole(role);
 	}
