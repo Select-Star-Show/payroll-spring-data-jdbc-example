@@ -11,8 +11,8 @@
     <groupId>com.cockroachlabs</groupId>
     <artifactId>payroll-spring-data-jdbc-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>select-star-demo-spring-data-jdbc</name>
-    <description>select-star-demo-spring-data-jdbc</description>
+    <name>SELECT STAR :: Payroll Example :: Spring Data JDBC</name>
+    <description>How to use Spring Data JDBC with CockroachDB</description>
     <properties>
         <java.version>17</java.version>
         <spring-data-bom.version>2024.1.1</spring-data-bom.version>
