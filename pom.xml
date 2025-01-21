@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.cockroachlabs</groupId>
-    <artifactId>select-star-demo-spring-data-jdbc</artifactId>
+    <artifactId>payroll-spring-data-jdbc-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>select-star-demo-spring-data-jdbc</name>
     <description>select-star-demo-spring-data-jdbc</description>
